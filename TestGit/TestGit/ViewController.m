@@ -18,7 +18,13 @@
     [super viewDidLoad];
     NSLog(@"Maskter");
     
+
     NSLog(@"Maskter2");
+
+
+    NSLog(@"Dev2");
+
+    NSLog(@"Dev1");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
