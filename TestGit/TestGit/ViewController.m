@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Maskter");
+    
+    NSLog(@"Maskter2");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
